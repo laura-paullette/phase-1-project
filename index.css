@@ -7,7 +7,7 @@ body{
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
-  background-color:rgb(35, 76, 165);
+  background-color: #2b6777;
 }
 header{
   width: 100%;
@@ -53,7 +53,7 @@ main div{
   width: 300px;
   height: 500px;
   margin: 19px 15px;
-  background:cornflowerblue;
+  background: #c8d8e4;
   border-radius: 25px;
   
 }
@@ -68,7 +68,7 @@ h2{
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-weight: bold;
   text-align: center;
-  color: #fff;
+  color: black;
 }
 
 #movie-body{

@@ -76,6 +76,8 @@ function showMovies(url){
 
             heading.setAttribute('id', 'movie-head')
             description.setAttribute('id', 'movie-body')
+            description.style = 'margin-top: 5%;'
+            heading.style = 'text-align: center; text-decoration: underline;'
 
             heading.textContent = title.join(' ')
 
