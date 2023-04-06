@@ -2,6 +2,8 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: 'Delicious Handrawn', cursive;
+  font-family: 'Poppins', sans-serif;
 }
 body{
   display: flex;
@@ -80,14 +82,18 @@ h2{
 
 nav{
   display: flex;
-  margin: 2% 0;
-  padding:2% 6%;
-  justify-content:flex-start;
+  padding: 2% 6%;
+  justify-content: space-between;
   align-items: center;
-  width: 16%;
-  height: 5%;
 }
 
 #logo{
   border-radius: 100%;
 }
+
+
+nav img{
+  width: 50px;
+}
+
+
