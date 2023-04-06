@@ -5,7 +5,7 @@ Cinema city website.
 # project description
 
 This is a movie website that uses the data fetched from APIs to display the top trending movies for the user on the landing page.
-Upon clicking on the movie of choice, a movie description, that is what the movie is about, will be displayed for the user.
+Upon clicking on the movie of choice, a movie description, that is what the movie is about, the producer, the characters and previous productions, will be displayed for the user.
 It also has a search button through which the user can search for their movie of choice, and depending on the title, all the movies that have that title will be displayed and they can get the description of that movie as well.
 
 # Sources
