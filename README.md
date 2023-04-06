@@ -10,7 +10,7 @@ It also has a search button through which the user can search for their movie of
 
 # Usage
 
-User can view this project using the following link:
+User can view this mini website or project using the following link:
 https://laura-paullette.github.io/phase-1-project/
 
 # Sources
