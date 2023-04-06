@@ -8,7 +8,7 @@ const form = document.getElementById("form");
 const search = document.getElementById("search");
 
 // showMovies function that requests the movie data from the Api using fetch.
- //Then it puts those data in the main HTML tag by creating elments for those data.
+ //Then it puts those data in the main HTML tag by creating elements for those data.
 
 showMovies(apiUrl);
 function showMovies(url){
@@ -109,7 +109,7 @@ function showMovies(url){
 
 
 
-// Prevent the Form from submitting if the search bar is empty.
+// Prevent the form from submitting if the search bar is empty.
 form.addEventListener("submit", (e) => {
     e.preventDefault();
     main.innerHTML = '';
