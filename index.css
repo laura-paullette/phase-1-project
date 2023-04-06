@@ -1,13 +1,15 @@
 *{
   margin: 0;
   padding: 0;
+  font-family: 'Delicious Handrawn', cursive;
+  font-family: 'Poppins', sans-serif;
   box-sizing: border-box;
 }
 body{
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
-  background-color: rgb(35, 124, 165);
+  background-color:rgb(35, 76, 165);
 }
 header{
   width: 100%;
@@ -15,7 +17,7 @@ header{
   display: flex;
   align-items: center;
   justify-content: flex-start;
-  margin-left: 35%;
+  margin-left: 25%;
   
 }
 header h1{
@@ -74,5 +76,20 @@ h2{
 #movie-body{
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   font-size: 20px;
+  font-weight: bold;
+  text-align: left;
 }
 
+nav{
+  display: flex;
+  margin: 2% 0;
+  padding:2% 6%;
+  justify-content:flex-start;
+  align-items: center;
+  width: 16%;
+  height: 5%;
+}
+
+#logo{
+  border-radius: 100%;
+}
