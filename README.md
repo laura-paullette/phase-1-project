@@ -15,9 +15,12 @@ https://laura-paullette.github.io/phase-1-project/
 
 # Sources
 
-This website gets its data from the following APIs
+This website gets its data from the following APIs and font links
 `https://imdb-api.com/`
 `https://www.themoviedb.org/movie`
+`https://fonts.googleapis.com`
+`https://fonts.gstatic.com`
+`https://fonts.googleapis.com/css2?family=Delicious+Handrawn&family=Poppins:wght@400;600;700&display=swap`
 
 # formating and style 
 
